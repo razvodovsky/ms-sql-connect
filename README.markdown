@@ -1,4 +1,4 @@
-== README
+README
 
 Simple example app that shows how to connect to existent MS SQL database and work with it directly from Ruby on Rails application.
 
